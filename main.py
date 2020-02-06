@@ -1,2 +1,5 @@
-name = input('What is your name?\n')
-print('Hi, %s.' % name)
+import turtle
+
+rahul.turtle = turtle.Turtle()
+
+rahul_turtle.forward(100)
